@@ -1,0 +1,23 @@
+{
+    "New York Times (World)": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "BBC News (World)": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "Reuters": "http://feeds.reuters.com/Reuters/worldNews",
+    "The Guardian (World)": "https://www.theguardian.com/world/rss",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "NPR (Top Stories)": "https://feeds.npr.org/1002/rss.xml",
+    "Financial Times": "https://www.ft.com/rss/home",
+    "Wall Street Journal (World)": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "Bloomberg (Markets)": "https://feeds.bloomberg.com/markets/news.rss",
+    "Investing.com (News)": "https://www.investing.com/rss/news.rss",
+    "The Verge": "https://www.theverge.com/rss/index.xml",
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "Wired (UK)": "https://www.wired.co.uk/feed/rss",
+    "MIT Technology Review": "https://www.technologyreview.com/feed",
+    "NASA (Breaking News)": "http://www.nasa.gov/rss/breaking_news.rss",
+    "Times of India": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "The Hindu": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "NDTV (Top Stories)": "https://feeds.feedburner.com/ndtvnew",
+    "Sky News (UK)": "https://feeds.skynews.com/feeds/rss/uk.xml",
+    "The Independent (UK)": "http://www.independent.co.uk/news/uk/rss",
+    "Vikatan": "https://www.vikatan.com/rss"
+}
